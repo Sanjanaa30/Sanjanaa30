@@ -32,11 +32,9 @@ Connect with me:
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 Programming Languages
-
-<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
@@ -48,11 +46,8 @@ Programming Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
 </p>
 
-<br>
 
 Data Engineering & Analytics
-
-<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
@@ -64,11 +59,7 @@ Data Engineering & Analytics
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
 </p>
 
-<br>
-
 AI & Machine Learning
-
-<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" />
@@ -80,11 +71,7 @@ AI & Machine Learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" />
 </p>
 
-<br>
-
 Databases
-
-<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
@@ -96,11 +83,7 @@ Databases
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" />
 </p>
 
-<br>
-
 DevOps & Cloud
-
-<br>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
