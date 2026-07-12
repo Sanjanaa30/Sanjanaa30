@@ -16,8 +16,6 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
 - Production-grade RAG and LLM evaluation
 - Advanced SQL optimization and analytics engineering
 
-<br>
-
 ### Connect with me
 
 <p>
@@ -34,7 +32,6 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
   </a>
 </p>
 
-<br>
 
 ### Tech Stack
 
