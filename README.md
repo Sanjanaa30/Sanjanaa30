@@ -31,7 +31,6 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
-<br>
 
 ### Tech Stack
 
