@@ -32,7 +32,7 @@ Connect with me:
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 Programming Languages
 
@@ -134,5 +134,5 @@ DevOps & Cloud
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Sanjanaa30&theme=default&hide_border=false&border_radius=5&card_width=500" alt="Sanjana's GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Sanjanaa30&theme=default&hide_border=false&border_radius=5&card_width=500" alt="GitHub Streak" />
 </p>
