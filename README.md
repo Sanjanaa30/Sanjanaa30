@@ -32,7 +32,7 @@ Connect with me:
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 Programming Languages
 
@@ -97,7 +97,6 @@ DevOps & Cloud
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
 </p>
 
-<br>
 
 ### Featured Projects
 
