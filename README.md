@@ -23,75 +23,105 @@ Connect with me:
 <a href="mailto:sanjanashivanand28@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="YOUR_LEETCODE_URL">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
-###
+<br><br>
 
 Programming Languages
 
+<br>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
 </p>
 
-###
+<br>
 
 Data Engineering & Analytics
 
+<br>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
 </p>
 
-###
+<br>
 
 AI & Machine Learning
 
+<br>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35" />
 </p>
 
-###
+<br>
 
 Databases
 
+<br>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" />
 </p>
 
-###
+<br>
 
 DevOps & Cloud
 
+<br>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="35" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
 </p>
+
+<br><br>
 
 ### Featured Projects
 
 - **FinSight AI** — Financial intelligence platform with data pipelines, ML forecasting, FinBERT sentiment, anomaly detection, SEC filing RAG, MCP tools, FastAPI, and Streamlit.
 - **AI-Powered Social Media Intelligence Platform** — Reddit and 4chan analytics platform with data ingestion, toxicity scoring, FastAPI, LangChain Text-to-SQL, and a TypeScript dashboard.
 - **Accessible Health Bench** — LLM evaluation benchmark analyzing accessibility and bias in nutrition and fitness advice using structured extraction, grounding, Sentence-BERT, and statistical validation.
-- **MTA Operations Analytics Workflows** — Safety, training, EPC/ACP, DAN, and IOD reporting workflows using SharePoint, Excel, Azure, SQL, Power Query, Python, Power BI, Power Apps, and Power Automate.
+- **MTA Operations Analytics** — Developed ETL, data validation, and reporting workflows for training compliance, EPC/ACP, DAN/IOD, and safety operations by integrating SharePoint, Excel, Azure, SQL, Python, Power Query, and Power BI.
 
 ### What I'm Focused On
 
@@ -103,6 +133,6 @@ DevOps & Cloud
 
 ### GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjanaa30&show_icons=true&hide_border=false&cache_seconds=1800" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Sanjanaa30&theme=default&hide_border=false&border_radius=5&card_width=500" alt="Sanjana's GitHub streak stats" />
 </p>
