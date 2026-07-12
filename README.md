@@ -16,25 +16,29 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
 - Production-grade RAG and LLM evaluation
 - Advanced SQL optimization and analytics engineering
 
-###
+<br>
 
-Connect with me:
+### Connect with me
 
-<a href="mailto:sanjanashivanand28@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-</a>
+<p>
+  <a href="mailto:sanjanashivanand28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 <br>
 
 ### Tech Stack
+
+<br>
 
 Programming Languages
 
