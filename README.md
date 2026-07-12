@@ -23,7 +23,7 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sanjanashivanand28/)">
+  <a href="https://www.linkedin.com/in/sanjanashivanand28/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
