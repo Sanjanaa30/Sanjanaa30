@@ -27,7 +27,7 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/sanjanaaa_28/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
