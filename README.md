@@ -46,7 +46,6 @@ Programming Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
 </p>
 
-
 Data Engineering & Analytics
 
 <p>
@@ -110,9 +109,3 @@ DevOps & Cloud
 - Creating Power BI dashboards for operational decision-making
 - Applying ML/AI to advanced analytics and automation
 - Building RAG systems, LLM agents, and AI-powered data products
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Sanjanaa30&theme=default&hide_border=false&border_radius=5&card_width=500" alt="GitHub Streak" />
-</p>
