@@ -35,8 +35,6 @@ I build AI-powered data platforms across data engineering, advanced analytics, a
 
 ### Tech Stack
 
-<br>
-
 Programming Languages
 
 <p>
